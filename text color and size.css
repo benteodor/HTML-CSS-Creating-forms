@@ -1,0 +1,25 @@
+time {
+    font-family: inherit;
+    font-size: 100%;
+
+}
+input [type="time"] {
+    font-size: 2em;
+    color: green;
+    padding-top: .5em;
+}
+label {
+    color:blue;
+    font-weight: bold;
+}
+input[type="date"] + label {
+    color:orange
+}
+fieldset {
+    color: green;
+}
+
+
+
+
+
